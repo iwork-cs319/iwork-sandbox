@@ -1,5 +1,8 @@
 const theme = {
   palette: {
+    primary: {
+      main: '#019de0'
+    }
   },
   typography: {
     button: {
